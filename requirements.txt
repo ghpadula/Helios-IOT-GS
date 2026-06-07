@@ -1,0 +1,12 @@
+# HÉLIOS — Olhos (Physical Computing / IoT)
+# Dependências da solução de visão computacional.
+#
+# Versões PINADAS para reprodutibilidade EXATA do ambiente.
+# Testado com Python 3.14.5 (ver .python-version).
+#
+#   python3 -m venv .venv
+#   source .venv/bin/activate        # Windows: .venv\Scripts\activate
+#   pip install -r requirements.txt
+
+opencv-python==4.13.0.92   # captura da webcam + processamento de imagem
+numpy==2.4.6               # operações vetorizadas (loop eficiente)

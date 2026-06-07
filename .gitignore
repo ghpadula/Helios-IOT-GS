@@ -1,0 +1,12 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Saídas geradas em runtime
+saidas/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
