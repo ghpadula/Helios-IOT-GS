@@ -158,17 +158,11 @@ a integração coerente entre as matérias.
 
 ---
 
-## Sprints
-
-O desenvolvimento foi organizado em 7 sprints — ver **[docs/SPRINTS.md](docs/SPRINTS.md)**.
-
----
-
 ## Integrantes
 
 > Preencher antes da entrega (exigência do repositório — nomes completos + RM):
 
-- Nome Completo — RMxxxxx
+- Gabriel Henrique Padula RM:554907
 - Nome Completo — RMxxxxx
 - Nome Completo — RMxxxxx
 - Nome Completo — RMxxxxx
