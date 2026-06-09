@@ -162,7 +162,7 @@ a integração coerente entre as matérias.
 
 - Gabriel Henrique Padula RM:554907
 - Rodrigo Nakata — RM: 556417
-- Nome Completo — RMxxxxx
+- Arthur Abonizio - RM: 555506
 
 ---
 
