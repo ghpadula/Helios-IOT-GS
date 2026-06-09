@@ -160,12 +160,8 @@ a integração coerente entre as matérias.
 
 ## Integrantes
 
-> Preencher antes da entrega (exigência do repositório — nomes completos + RM):
-
 - Gabriel Henrique Padula RM:554907
-- Nome Completo — RMxxxxx
-- Nome Completo — RMxxxxx
-- Nome Completo — RMxxxxx
+- Rodrigo Nakata — RM: 556417
 - Nome Completo — RMxxxxx
 
 ---
